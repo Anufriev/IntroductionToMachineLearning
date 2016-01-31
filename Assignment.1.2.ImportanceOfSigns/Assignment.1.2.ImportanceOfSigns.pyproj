@@ -3,15 +3,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>74fb3a5f-dfb8-4bc3-a76c-712527bb1887</ProjectGuid>
+    <ProjectGuid>2eae9b55-2a10-42df-9b79-88d9ad166a26</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Assignment.1.1.IntroductionToPandas.py</StartupFile>
+    <StartupFile>Assignment.1.2.ImportanceOfSigns.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Assignment.1.1.IntroductionToPandas</Name>
-    <RootNamespace>Assignment.1.1.IntroductionToPandas</RootNamespace>
+    <Name>Assignment.1.2.ImportanceOfSigns</Name>
+    <RootNamespace>Assignment.1.2.ImportanceOfSigns</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,15 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assignment.1.1.IntroductionToPandas.py" />
+    <Compile Include="Assignment.1.2.ImportanceOfSigns.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Submissions\1. How many men and women rode on the ship.txt" />
-    <Content Include="Submissions\2. What part of the passengers managed to survive.txt" />
-    <Content Include="Submissions\3. What percentage of first class passengers were among the passengers.txt" />
-    <Content Include="Submissions\4. What age were the passengers.txt" />
-    <Content Include="Submissions\5. Pearson correlation between the SibSp sign and the Parch sign.txt" />
-    <Content Include="Submissions\6. Most popular female name on the ship.txt" />
     <Content Include="titanic.csv" />
   </ItemGroup>
   <ItemGroup>
