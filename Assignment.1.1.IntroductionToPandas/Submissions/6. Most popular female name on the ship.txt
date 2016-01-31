@@ -1,0 +1,62 @@
+ Mary                                                       6
+ Bertha                                                     4
+ Anna                                                       3
+ Anna Sofia                                                 3
+ Elizabeth                                                  2
+ Marija                                                     2
+ Ellen "Nellie"                                             2
+ Kate                                                       2
+ Alice                                                      2
+ Hanora "Nora"                                              2
+ Katherine "Katie"                                          2
+ John Jacob (Madeleine Talmadge Force)                      1
+ Ernest Courtenay (Lilian Hughes)                           1
+ Fatima                                                     1
+ Rosalie                                                    1
+ Jacques Heath (Lily May Peel)                              1
+ Joseph (Sultana)                                           1
+ Augusta Charlotta                                          1
+ Oscar W (Elisabeth Vilhelmina Berg)                        1
+ Laura Mabel                                                1
+ Marjorie "Lottie"                                          1
+ William H (Jessie L)                                       1
+ William (Anna)                                             1
+ Amelie                                                     1
+ Victor de Satode (Maria Josefa Perez de Soto y Vallejo)    1
+ Mathilde                                                   1
+ Karl Alfred (Maria Mathilda Gustafsson)                    1
+ Carla Christine Nielsine                                   1
+ Anna Katherine "Annie Kate"                                1
+ Amelia                                                     1
+                                                           ..
+ Viktor (Helena Wilhelmina)                                 1
+ Edgar Joseph (Leila Saks)                                  1
+ Julius (Emelia Maria Vandemoortele)                        1
+ Elsie Edith                                                1
+ Margaret Jane                                              1
+ Amin S (Marie Marthe Thuillard)                            1
+ Mabel Helen                                                1
+ Alexander Oskar (Mary Aline Towner)                        1
+ Ruth                                                       1
+ William A (Florence "Mary" Agnes Hughes)                   1
+ Richard Leonard (Sallie Monypeny)                          1
+ Joan                                                       1
+ Berthe Antonine ("Mrs de Villiers")                        1
+ Agnes                                                      1
+ Norman Campbell (Bertha Griggs)                            1
+ Jean Baptiste (Rosalie Paula Govaert)                      1
+ Robina Maggie "Ruby"                                       1
+ Edwina Celia "Winnie"                                      1
+ Ethel                                                      1
+ Simonne Marie Anne Andree                                  1
+ Lucile Polk                                                1
+ Joseph (Maria Elias)                                       1
+ Elizabeth W                                                1
+ Albert Francis (Sylvia Mae Harbaugh)                       1
+ Alice (Farnham)                                            1
+ Thomas (Edith Wearne)                                      1
+ Walter Bertram (Martha Eustis)                             1
+ Pieta Sofia                                                1
+ Annie Clemmer                                              1
+ Nora A                                                     1
+Name: Name, dtype: int64
