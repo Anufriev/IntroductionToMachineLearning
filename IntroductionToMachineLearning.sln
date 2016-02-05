@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment.1.1.Introduction
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment.1.2.ImportanceOfSigns", "Assignment.1.2.ImportanceOfSigns\Assignment.1.2.ImportanceOfSigns.pyproj", "{2EAE9B55-2A10-42DF-9B79-88D9AD166A26}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment.1.4.ChoiceOfMetric", "Assignment.1.4.ChoiceOfMetric\Assignment.1.4.ChoiceOfMetric.pyproj", "{AFB12CC6-3FFE-4389-974E-1044C8BD1226}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{74FB3A5F-DFB8-4BC3-A76C-712527BB1887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EAE9B55-2A10-42DF-9B79-88D9AD166A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2EAE9B55-2A10-42DF-9B79-88D9AD166A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB12CC6-3FFE-4389-974E-1044C8BD1226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB12CC6-3FFE-4389-974E-1044C8BD1226}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

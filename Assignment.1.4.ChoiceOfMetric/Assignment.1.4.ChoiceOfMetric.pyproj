@@ -3,15 +3,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>74fb3a5f-dfb8-4bc3-a76c-712527bb1887</ProjectGuid>
+    <ProjectGuid>afb12cc6-3ffe-4389-974e-1044c8bd1226</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Assignment.1.1.IntroductionToPandas.py</StartupFile>
+    <StartupFile>Assignment.1.4.ChoiceOfMetric.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Assignment.1.1.IntroductionToPandas</Name>
-    <RootNamespace>Assignment.1.1.IntroductionToPandas</RootNamespace>
+    <Name>Assignment.1.4.ChoiceOfMetric</Name>
+    <RootNamespace>Assignment.1.4.ChoiceOfMetric</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
     <InterpreterId>{9a7a9026-48c1-4688-9d5d-e5699d47d074}</InterpreterId>
     <InterpreterVersion>2.7</InterpreterVersion>
@@ -25,19 +25,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assignment.1.1.IntroductionToPandas.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Submissions\1. How many men and women rode on the ship.txt" />
-    <Content Include="Submissions\2. What part of the passengers managed to survive.txt" />
-    <Content Include="Submissions\3. What percentage of first class passengers were among the passengers.txt" />
-    <Content Include="Submissions\4. What age were the passengers.txt" />
-    <Content Include="Submissions\5. Pearson correlation between the SibSp sign and the Parch sign.txt" />
-    <Content Include="Submissions\6. Most popular female name on the ship.txt" />
-    <Content Include="titanic.csv" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Submissions\" />
+    <Compile Include="Assignment.1.4.ChoiceOfMetric.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="{9a7a9026-48c1-4688-9d5d-e5699d47d074}\2.7" />
